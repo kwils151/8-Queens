@@ -1,0 +1,14 @@
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\bin\Debug\8 Queens.exe.config
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\bin\Debug\8 Queens.exe
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\bin\Debug\8 Queens.pdb
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\obj\Debug\8 Queens.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\obj\Debug\8 Queens.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\obj\Debug\8 Queens.exe
+C:\Users\Kyle\source\repos\8 Queens\8 Queens\obj\Debug\8 Queens.pdb
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\bin\Debug\8 Queens.exe.config
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\bin\Debug\8 Queens.exe
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\bin\Debug\8 Queens.pdb
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\obj\Debug\8 Queens.csprojAssemblyReference.cache
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\obj\Debug\8 Queens.csproj.CoreCompileInputs.cache
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\obj\Debug\8 Queens.exe
+D:\UNCC Classes\ITCS 3153\8 Queens\8 Queens\obj\Debug\8 Queens.pdb
